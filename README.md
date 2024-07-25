@@ -12,5 +12,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Yakumo-zi/count.sv
 
 ### My Skills 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,js,ts,react,vue,tailwindcss,docker,redis,mysql,neovim&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,js,ts,react,vue,tailwindcss,docker,redis,mysql,neovim,git,rust,linux)](https://skillicons.dev)
 
