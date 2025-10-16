@@ -10,5 +10,5 @@
 
 ### My Skills 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,js,ts,react,vue,tailwindcss,docker,redis,mysql,neovim,git,rust,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,js,ts,docker,redis,mysql,postgresql,neovim,git,rust,linux)](https://skillicons.dev)
 
